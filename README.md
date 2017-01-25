@@ -6,9 +6,9 @@ This repository is used to discuss bugs and feature requests for the proprietary
 
 * Public API - [https://api.particle.io](https://api.particle.io).
 * Cloud compiler
-* Build IDE - [https://build.particle.io](https://build.particle.io)
+* Web IDE/Build IDE - [https://build.particle.io](https://build.particle.io)
 * Webhooks - the magic server sauce which takes your events and turns them into HTTP(S) requests to the outside world.
-* Dashboard - the front end management tool for everything Particle. [https://dashboard.particle.io](https://dashboard.particle.io)
+* Console (formerly Dashboard) - the front end management tool for everything Particle. [https://console.particle.io](https://dashboard.particle.io)
 * Device Setup - [https://setup.particle.io](https://setup.particle.io)
 
 ## Open Source
